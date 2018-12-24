@@ -7,7 +7,7 @@ public class Test2 {
 	@Test
 	public void b1()
 	{
-	System.out.println("hi i am app package");	
+	System.out.println("hi i am a1pp package");	
 	}
 
 }
